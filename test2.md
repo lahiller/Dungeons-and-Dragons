@@ -1,5 +1,7 @@
-<html>
-<body>
-<script src="scripts/main.js"></script>
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+public class Hello
+{
+  public static voic main(String[] args)
+  {
+    System.out.println("Hello Java");
+  }
+}
